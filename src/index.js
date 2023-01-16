@@ -35,6 +35,7 @@ const MORSE_TABLE = {
     '---..':  '8',
     '----.':  '9',
     '-----':  '0',
+    '22222':   ' ',
 };
 
 function decode(expr) {
